@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/09 21:50:47.000.866,=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/09 16:11:59.000.666,=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/09 16:12:24.000.874,D:\Delphi\Cadastro\uCadastro.dfm=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/09 16:12:24.000.874,D:\Delphi\Cadastro\uCadastro.pas=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/09 16:12:42.000.530,D:\Delphi\Cadastro\Cadastro.dproj=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/09 17:19:16.000.506,=D:\Delphi\Cadastro\ucep.pas</Transaction>
+    <Transaction>2019/10/10 00:48:51.000.215,=D:\Delphi\Cadastro\fcEmail.pas</Transaction>
+    <Transaction>2019/10/10 00:52:45.000.576,=D:\Delphi\Cadastro\UntEnviarEmail.pas</Transaction>
+    <Transaction>2019/10/10 00:56:34.000.787,D:\Delphi\Cadastro\UntEnviarEmail.pas=</Transaction>
+    <Transaction>2019/10/10 00:56:40.000.259,D:\Delphi\Cadastro\fcEmail.pas=</Transaction>
+    <Transaction>2019/10/10 01:00:14.000.248,=D:\Delphi\Cadastro\UntPrincipal.pas</Transaction>
+    <Transaction>2019/10/10 01:00:42.000.141,D:\Delphi\Cadastro\UntPrincipal.dfm=D:\Delphi\Cadastro\UEnviaEmail.dfm</Transaction>
+    <Transaction>2019/10/10 01:00:42.000.141,D:\Delphi\Cadastro\UntPrincipal.pas=D:\Delphi\Cadastro\UEnviaEmail.pas</Transaction>
+  </Transactions>
+</BorlandProject>
